@@ -40,3 +40,8 @@ class Ponto:
 
     def __hash__(self):
         return hash((self.x, self.y))
+```
+
+### Funções Auxiliares
+converter_para_lista_de_pontos
+Converte duas listas de valores x e y em uma lista de objetos Ponto.
