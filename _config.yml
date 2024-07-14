@@ -1,11 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Art Gallery
+description: Apresentação do TP de Algoritmos 2
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://alexeduardo-zip.github.io/ALG2_TP1_Art/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://alexeduardo-zip.github.io/ALG2_TP1_Art/
 
 plugins:
   - jekyll-default-layout
